@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a 4th year PhD student at Department of Physics, Lehigh University working in the realm of computational design and high-throughput investigation of new materials for applications in next-generation technologies under the supervision of [Dr. Chinedu Ekuma](https://cekumagroup.cas.lehigh.edu). 
+
+My research deals with the study of two-dimensional layered solid-state systems, specifically transition metal chalcogenides and perovskites, and is centered the on computational modeling of the electronic and optical properties of these systems, utilizing cutting-edge techniques such as first-principles density functional theory and many-body approximations like GW-BSE. In pursuit of innovative materials design and efficient analysis, I also harness the power of data-driven machine learning for high-throughput exploration. 
 
 A data-driven personal website
 ======
