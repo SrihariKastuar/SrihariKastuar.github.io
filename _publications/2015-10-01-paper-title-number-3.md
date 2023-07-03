@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Giant electrophotonic response in two-dimensional halide perovskite Cs3Bi2I9 by strain engineering"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Organic-inorganic mixed halide perovskites have been of utmost importance for renewable energy and information technology due to their outstanding properties, but the toxicity of Pb and the instability of the organic component has hindered their applications. Herein, we present detailed mechanical and elastic properties of the family of the Pb-free perovskite-derived two-dimensional (2D) A3B2X9 (A=K,Rb,Cs;B=Bi,Sb,As,P; and X = Cl, Br, I), and demonstrate different physical property tunability of the archetypical Cs3 Bi2 I9 using ab initio simulations. Our calculated properties show that the optoelectronic properties can be tuned efficiently, as evidenced by flat bands in the band structure and the large absorption peaks in the optical spectra. Through strain engineering, we achieve a redshift of the optical absorption towards the visible regime and demonstrate a robust tuning of the optoelectronic properties for device applications.'
+date: 2023-03-02
+venue: 'Physical Review Materials'
+paperurl: 'http://SrihariKastuar.github.io/files/PhysRevMaterials.7.024002.pdf'
+citation: 'Kastuar, S. M., & Ekuma, C. E. (2023). Giant electrophotonic response in two-dimensional halide perovskite Cs3Bi2I9 by strain engineering. Physical Review Materials, 7(2), 024002.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Organic-inorganic mixed halide perovskites have been of utmost importance for renewable energy and information technology due to their outstanding properties, but the toxicity of Pb and the instability of the organic component has hindered their applications. Herein, we present detailed mechanical and elastic properties of the family of the Pb-free perovskite-derived two-dimensional (2D) A3B2X9 (A=K,Rb,Cs;B=Bi,Sb,As,P; and X = Cl, Br, I), and demonstrate different physical property tunability of the archetypical Cs3 Bi2 I9 using ab initio simulations. Our calculated properties show that the optoelectronic properties can be tuned efficiently, as evidenced by flat bands in the band structure and the large absorption peaks in the optical spectra. Through strain engineering, we achieve a redshift of the optical absorption towards the visible regime and demonstrate a robust tuning of the optoelectronic properties for device applications.
+[Download paper here](http://SrihariKastuar.github.io/files/PhysRevMaterials.7.024002.pdf)
