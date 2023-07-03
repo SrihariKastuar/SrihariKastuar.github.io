@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
+    #url: /cv/
+    url: /files/Srihari_CV.pdf
 #  - title: "Guide"
 #    url: /markdown/
