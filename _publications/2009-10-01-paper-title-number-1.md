@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Blue phosphorene nanosheets with point defects: Electronic structure and hydrogen storage capability"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Presence of defects in two dimensional nanomaterial can lead to dramatic changes in their structural and electronic properties. Through ab-initio DFT computations, we study the electronic structure of semiconducting 2D elemental monolayers of blue phosphorene, with common point defects like Stone-Wales, single and double vacancies. The calculated formation energies of single and double vacancies in phosphorene are found to be lower compared to other well known 2D monolayers. Electronic structure of blue phosphorene shows a reduced band gap from that of the perfect lattice, and flat bands characterizing the defect states. We also investigate the suitability of defective blue phosphorene as a hydrogen storage template. We find that, like in the case of perfect phosphorene nanosheets, metal decoration of defective phosphorene can enhance the storage capacity for hydrogen molecules, with binding energies suitable for practical storage. Lithium decoration of the single and double vacancy defect at higher coverage can store a maximum of six to nine hydrogen molecules per defect, thus leading to a high gravimetric density of hydrogen. It is found that these structures are stable at room temperature. Comparing the storage capabilities of defective black and blue phosphorene, we find that defective blue phosphorene can store more hydrogen than black phosphorene.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://SrihariKastuar.github.io/files/1-s2.0-S0169433221004396-main.pdf'
+citation: 'John, D., Nharangatt, B., Kastuar, S. M., & Chatanathodi, R. (2021). Blue phosphorene nanosheets with point defects: Electronic structure and hydrogen storage capability. Applied Surface Science, 551, 149363.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Presence of defects in two dimensional nanomaterial can lead to dramatic changes in their structural and electronic properties. Through ab-initio DFT computations, we study the electronic structure of semiconducting 2D elemental monolayers of blue phosphorene, with common point defects like Stone-Wales, single and double vacancies. The calculated formation energies of single and double vacancies in phosphorene are found to be lower compared to other well known 2D monolayers. Electronic structure of blue phosphorene shows a reduced band gap from that of the perfect lattice, and flat bands characterizing the defect states. We also investigate the suitability of defective blue phosphorene as a hydrogen storage template. We find that, like in the case of perfect phosphorene nanosheets, metal decoration of defective phosphorene can enhance the storage capacity for hydrogen molecules, with binding energies suitable for practical storage. Lithium decoration of the single and double vacancy defect at higher coverage can store a maximum of six to nine hydrogen molecules per defect, thus leading to a high gravimetric density of hydrogen. It is found that these structures are stable at room temperature. Comparing the storage capabilities of defective black and blue phosphorene, we find that defective blue phosphorene can store more hydrogen than black phosphorene.'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://SrihariKastuar.github.io/files/1-s2.0-S0169433221004396-main.pdf))
