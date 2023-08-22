@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Srihari and you're welcome!"
+title: "Hi, I'm Srihari and you're welcome!" ⛅:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
