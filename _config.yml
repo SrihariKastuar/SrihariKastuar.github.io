@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S.M.K acknowledges ..."
+title                    : "S.M.K's Homepage"
 title_separator          : "-"
 name                     : &name "Srihari M. Kastuar"
 description              : &description "personal description"
