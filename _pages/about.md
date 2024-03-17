@@ -15,9 +15,12 @@ I study the physics of low-dimensional solid-state systems such as 2D materials,
 
 ![A nice poster encompassing some of my recent works](/images/POSTER_IFMD.pdf){: .align-center width="300px"}
 
-## Ab-initio Computations: GGA, metaGGA, HSE06, GW-BSE, Wannier90
+## Ab-initio Computations: 
+GGA, metaGGA, HSE06, GW-BSE, Wannier90
 
-## Machine Learning: Regression, active-learning, DNN
+## Machine Learning: 
+Regression, active-learning, DNN
 
-## For Collaborations: Contact info --> [CV](/files/Srihari_CV2.pdf)
+## For Collaborations: 
+Contact info ⮕ [CV](/files/Srihari_CV2.pdf)
 
