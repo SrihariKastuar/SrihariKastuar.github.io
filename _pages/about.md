@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey, this is Srihari (Sh-ree-ha-ree)"
+title: "Hey, this is Srihari"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
