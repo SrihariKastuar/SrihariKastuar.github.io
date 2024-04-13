@@ -8,4 +8,4 @@ venue: 'Science Advances'
 citation: 'Srihari M. Kastuar, Chinedu E. Ekuma, Chemically tuned intermediate band states in atomically thin CuxGeSe/SnS quantum material for photovoltaic applications. Sci. Adv. 10, eadl6752(2024). DOI: 10.1126/sciadv.adl6752'
 ---
 
-[Download paper here](10.1126/sciadv.adl6752)
+[Download paper here](https://www.science.org/doi/10.1126/sciadv.adl6752)
