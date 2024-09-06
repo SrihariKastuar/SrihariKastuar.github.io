@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Blog"
+title: "Documenting Errors/Warnings in DFT codes:"
 permalink: /blog1/
 author_profile: true
 ---
 
 
-Hi. Lets see...
+This is just the beginning. 
