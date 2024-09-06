@@ -16,7 +16,7 @@ main:
     #url: /cv/
     url: /files/Srihari_CV2.pdf
 
-    - title: "Blog"
+  - title: "Blog"
     url: /teaching/  
 #  - title: "Guide"
 #    url: /markdown/
