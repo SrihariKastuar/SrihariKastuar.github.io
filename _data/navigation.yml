@@ -9,14 +9,14 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     #url: /cv/
     url: /files/Srihari_CV2.pdf
 
-  - title: "Blog"
-    url: /posts/  
+#  - title: "Blog"
+#    url: /posts/  
 #  - title: "Guide"
 #    url: /markdown/
