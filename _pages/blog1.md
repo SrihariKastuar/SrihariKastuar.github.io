@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
-title: "Errors are annoying"
+layout: archive
+title: "Blog"
+permalink: /blog1/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
+
 
 Hi. Lets see...
