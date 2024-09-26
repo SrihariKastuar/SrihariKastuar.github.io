@@ -13,7 +13,7 @@ I am a Physics PhD student in [Ekuma Group](https://cekumagroup.cas.lehigh.edu),
 
 I study the physics of low-dimensional solid-state systems such as 2D materials, their interfaces and heterostructures (e.g: transition metal dichalcogenides, group-IV monochalcogenides, Pb-free perovskites, etc). Using state-of-the-art electronic structure codes I perform computations at the level of Density Functional and Many-body perturbation theory, and study various physical properties including electronics, optoelectronics, energetic and mechanical structures, topology, etc. In pursuit of innovative materials design and efficient analysis, I also harness the power of data-driven machine learning for high-throughput design of new materials. 
 
-
+Gemini LLM generated Podcast on "Chemically tuned intermediate band state in atomically thin CuxGeSe/SnS quantum material for photovoltaic applications", 10.1126/sciadv.adl6752 --> [Begin](\files\ScienceAdvances_10_2024.mp4)
 
 ## _Ab-initio_ computations: 
 GGA, metaGGA, HSE06, GW-BSE, Wannier90
