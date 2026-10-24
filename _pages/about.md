@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me..."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computational Physicist interested in quantum materials, particularly 2D materials and their heterostructures. I recieved a PhD in Physics from the Department of Physics at Lehigh University in 2025. 
+I am a Computational Physicist interested in the study of quantum materials, with a particular focus on 2D materials and their heterostructures. The interplay of crystal symmetry, electron-electron interactions, charge hybridization, and spin orbit coupling govern the properties of quantum materials. The reduced dimensionality and dielectric screening in 2D materials, together with the ability to engineer their heterostructures, offer unique opportunities to manipulate these interactions and tailor their electronic and optical properties. I use this idea to design quantum materials for energy-related applications, such as solar cells. 
 
-My research revolves around the computational design and high-throughput investigations of new materials for applications in next-generation devices and technologies. ⛅
 
-I study the physics of low-dimensional solid-state systems such as 2D materials, their interfaces and heterostructures (e.g: transition metal dichalcogenides, group-IV monochalcogenides, Pb-free perovskites, etc). Using state-of-the-art electronic structure codes I perform computations at the level of Density Functional and Many-body perturbation theory, and study various physical properties including electronics, optoelectronics, energetic and mechanical structures, topology, etc. In pursuit of innovative materials design and efficient analysis, I also harness the power of data-driven machine learning for high-throughput design of new materials. 
+I obtained a PhD in Physics from the Department of Physics at Lehigh University in May 2025, where I received extensive training in first-principles atomistic computations. In subsequent postdoctoral research, I trained myself in mesoscopic and finite-temperature simulations. I use methods such as density functional theory, hybrid functionals, GW approximation, Bethe-Salpeter equations, tight-binding theory, and statistical thermodynamics in my research. 
+
 
 ![Table of Content figure of this paper](/images/ToC2.pdf){: .align-right width="500px"}
 **Gemini LLM-generated Podcast** on *"Chemically tuned intermediate band states in atomically thin CuxGeSe/SnS quantum material for photovoltaic applications"*, DOI: [10.1126/sciadv.adl6752](https://doi.org/10.1126/sciadv.adl6752) — [**Listen to Podcast**](/files/ScienceAdvances_10_2024.mp4)
