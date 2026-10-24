@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Physics of Materials, and Music"
+title                    : "Quantum Kastuar"
 title_separator          : "-"
 name                     : &name "Srihari M. Kastuar"
 description              : &description "personal description"
