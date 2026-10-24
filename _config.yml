@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S.M.K's Homepage"
+title                    : "Physics of Materials, and Music"
 title_separator          : "-"
 name                     : &name "Srihari M. Kastuar"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Srihari Kastuar"
+  name             : "Srihari M. Kastuar"
   avatar           : "srihari_profilepic.JPG"
-  bio              : "Computational Materials Physicist"
+  bio              : "Postdoctoral Associate"
   location         : "Troy, New York"
   employer         : "Rensselaer Polytechnic Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sJM6-PQAAAAJ"
-  email            :
+  email            : "sm.kastuar@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Srihari-Kastuar"
   uri              :
   bitbucket        :
