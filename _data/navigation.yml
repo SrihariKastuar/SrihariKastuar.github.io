@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=OEB9MZ0AAAAJ&hl=en&oi=ao
-#    url: /publications/
+
 
   - title: "Talks"
     url: /talks/   
