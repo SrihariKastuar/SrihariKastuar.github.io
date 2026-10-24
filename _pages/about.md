@@ -22,5 +22,5 @@ GGA, metaGGA, HSE06, GW-BSE, Wannier90
 Regression, active-learning, DNN
 
 ## For collaborations: 
-Contact info ⮕ [CV](/files/SRIHARI_M_KASTUAR.pdf)
+Contact info ⮕ [CV](/files/SrihariCV.pdf)
 
